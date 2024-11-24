@@ -7,4 +7,3 @@ function FindProxyForURL(url, host) {
     // 默认不使用代理（走本地）
     return "DIRECT";
 }
-
